@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Aahana Shukla
 - 👀 I’m interested in Blockachain | AI/ML | AR/VR.
-- 🌱 I’m currently learning Solidity and Focusing on DSA(Java)
+- 🌱 I’m currently learning Web Development(MERN Stack) and Focusing on DSA(Java)
