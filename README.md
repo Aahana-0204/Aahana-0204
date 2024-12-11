@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aahana Shukla</h1>
-<h3 align="center">I am a passionate learner in the World of Technology focusing on Problem Solving</h3>
+<h3 align="center">I am a passionate learner focusing on Problem Solving</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,AI/ML, MERN Stack**
 
